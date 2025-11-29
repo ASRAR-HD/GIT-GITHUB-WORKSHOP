@@ -68,7 +68,7 @@ git checkout -b branch-name
 ```
 #### Change the 'origin' link to YOUR new Team Repository
 ```bash
-git remote set-url origin https://github.com/TEAM-LEAD-USERNAME/team-name.git
+git remote set-url origin https://github.com/TEAM-LEAD-USERNAME/GIT-GITHUB-WORKSHOP.git
 ```
 
 ### Phase 3: Code & Commit (Everyone)
@@ -141,6 +141,7 @@ You are now Git contributors!
 ---
 
 **Built with ❤️ by IT Geeks Club**
+
 
 
 
