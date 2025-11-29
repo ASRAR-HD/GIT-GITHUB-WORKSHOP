@@ -55,7 +55,7 @@ Goal: Create a single shared repository for your team.
 
  - All 4 members clone the Team Lead's fork (NOT the original instructor's repo):
 ```bash
-git clone https://github.com/ItgeeksFSTT/GIT-GITHUB-WORKSHOP
+git clone https://github.com/TEAM-LEADER-USERNAME/GIT-GITHUB-WORKSHOP
 cd GIT-GITHUB-WORKSHOP
 ```
 
@@ -137,6 +137,7 @@ You are now Git contributors!
 ---
 
 **Built with ❤️ by IT Geeks Club**
+
 
 
 
